@@ -1,0 +1,1 @@
+../../../../.config/fish/functions/git_is_touched.fish

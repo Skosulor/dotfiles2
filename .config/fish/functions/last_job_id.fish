@@ -1,0 +1,1 @@
+../../../../.config/fish/functions/last_job_id.fish

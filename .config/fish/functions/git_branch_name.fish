@@ -1,0 +1,1 @@
+../../../../.config/fish/functions/git_branch_name.fish
