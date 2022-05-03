@@ -1,1 +1,0 @@
-../../../../.config/fish/functions/pwd_is_home.fish

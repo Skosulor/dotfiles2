@@ -1,1 +1,0 @@
-../../../../.config/fish/functions/git_is_empty.fish

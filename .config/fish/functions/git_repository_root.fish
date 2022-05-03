@@ -1,1 +1,0 @@
-../../../../.config/fish/functions/git_repository_root.fish

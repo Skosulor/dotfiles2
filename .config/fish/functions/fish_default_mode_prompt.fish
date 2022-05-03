@@ -1,1 +1,0 @@
-../../../../.config/fish/functions/fish_default_mode_prompt.fish

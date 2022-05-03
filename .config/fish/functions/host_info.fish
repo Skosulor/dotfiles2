@@ -1,1 +1,0 @@
-../../../../.config/fish/functions/host_info.fish
